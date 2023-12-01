@@ -1,7 +1,5 @@
 hi its mi
 add new line
-<<<<<<< HEAD
-конфликт-2
-=======
+
 конфликт-1
->>>>>>> cbb70b3d1584b9ff372a50228deface14393be6f
+
