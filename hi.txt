@@ -1,2 +1,3 @@
 hi its mi
 add new line
+конфликт-1
